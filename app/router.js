@@ -6,6 +6,8 @@ Router.map(function() {
   // this.resource('posts', function() {
   //   this.route('new');
   // });
+  this.resource('login', function(){
+  });
 });
 
 export default Router;
